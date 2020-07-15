@@ -1,0 +1,16 @@
+header{
+    background-color: lightcoral;
+    width: 760px;
+    padding: 25px;
+    position: center;
+}
+main{
+    background-color: lightblue;
+    width: 750px;
+    padding: 25px;
+    border: solid 5px lightcoral
+}
+
+img{
+    width: 500px;
+}
